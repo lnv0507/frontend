@@ -1,0 +1,1 @@
+export const artists = (state) => state.artists;
